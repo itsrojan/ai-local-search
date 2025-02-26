@@ -1,5 +1,6 @@
 # ai_local_search
 (Fall 2024 AI Assignment 2)
+
 Pick one local search algorithm (Genetic Algorithm) to solve the Eight Queen problem.
 
 The output should be a solution that looks like the following:
